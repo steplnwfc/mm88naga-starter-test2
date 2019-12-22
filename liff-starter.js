@@ -1,7 +1,12 @@
 window.onload = function (e) {
-    liff.init(function (data) {
+
+liff.init({ liffId: "1622433419-GgjvLjwK" }, () => {}, err => console.error(err.code, error.message));
+
+    /*liff.init(function (data) {
+        data = liffId: "1622433419-GgjvLjwK",
         initializeApp(data);
     });
+    */
 };
 
 function initializeApp(data) {
