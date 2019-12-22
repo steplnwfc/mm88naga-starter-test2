@@ -7,7 +7,7 @@
 <body>
     <div class="buttongroup">
         <div class="buttonrow">
-            <button id="openwindowbutton">Open Window</button>
+            <button id="openwindowbutton">Open Window <?php echo 'hi'; ?></button>
             <button id="closewindowbutton">Close Window</button>
         </div>
         <div class="buttonrow">
