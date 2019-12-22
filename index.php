@@ -11,7 +11,7 @@
             <!-- ACTION BUTTONS -->
             <div class="buttonGroup">
                 <div class="buttonRow">
-                    <button id="openWindowButton">Open External Window</button>
+                    <button id="openWindowButton">Open External Window x</button>
                     <button id="closeWindowButton">Close LIFF App</button>
                 </div>
                 <div class="buttonRow">
