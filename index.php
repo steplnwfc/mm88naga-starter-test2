@@ -1,3 +1,6 @@
+<?php
+$user = $_GET['user'];
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -7,6 +10,9 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
+      <?php
+      echo 'user id: '.$user."<br /><br />";
+       ?>
         <div id="liffAppContent">
             <!-- ACTION BUTTONS -->
             <div class="buttonGroup">
